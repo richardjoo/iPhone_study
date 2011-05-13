@@ -1,0 +1,56 @@
+TButton Fun
+v7
+r1
+cCheck dependencies
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Button_FunViewController.xib
+c000000004BA1D1870000000000002DED
+t1268896135
+s11757
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/MainWindow.xib
+c000000004AF480230000000000002436
+t1257537571
+s9270
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app
+t1269510222
+s374
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/Button_FunViewController.nib
+t1268896508
+s3182
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/Info.plist
+t1269509977
+s668
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/MainWindow.nib
+t1268896508
+s1501
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/PkgInfo
+t1269509977
+s8
+
+NButton_Fun-Info.plist
+c000000004BAB2F580000000000000421
+t1269509976
+s1057
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302570806#302570806#0(160"[BEROR]error: There is no SDK with the name or path 'iphoneos3.0'[BEROR]Code Sign error: Provisioning profile 'My iPhone Development Provisioning' has expired2(4@58"error: There is no SDK with the name or path 'iphoneos3.0'302570806#18446744073709551615#0#0(1@0"0(4@86"Code Sign error: Provisioning profile 'My iPhone Development Provisioning' has expired302570806#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileXIB "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Button_FunViewController.xib"
+r0
+
+CCompileXIB "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/Info.plist" Button_Fun-Info.plist
+r0
+
+CTouch "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app"
+r0
+

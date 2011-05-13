@@ -1,0 +1,256 @@
+TAutosize
+v7
+r0
+t307576373.370407
+cCheck dependencies
+cProcessInfoPlistFile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist" Autosize-Info.plist
+cCompileXIB "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/MainWindow.xib"
+cCompileXIB "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/AutosizeViewController.xib"
+cProcessPCH /var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Autosize_Prefix-beiokxbxenfysjaxkidltphxknwv/Autosize_Prefix.pch.gch Autosize_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize" normal i386
+cGenerateDSYMFile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize"
+cTouch "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/AutosizeViewController.xib
+c000000004CA192CB000000000000720F
+t1285657291
+s29199
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Autosize_Prefix.pch
+c000000004C918AC000000000000000B9
+t1284606656
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeAppDelegate.h
+c000000004C918ABF00000000000001E4
+t1284606655
+s484
+i<UIKit/UIKit.h>
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeAppDelegate.m
+c000000004C918ABF0000000000000A8F
+t1284606655
+s2703
+i"AutosizeAppDelegate.h"
+i"AutosizeViewController.h"
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeViewController.h
+c000000004CA183CE00000000000002B6
+t1285653454
+s694
+i<UIKit/UIKit.h>
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeViewController.m
+c000000004CA1A5550000000000000B27
+t1285662037
+s2855
+i"AutosizeViewController.h"
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/MainWindow.xib
+c000000004C918ABF0000000000004E35
+t1284606655
+s20021
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/Autosize.LinkFileList
+c000000004CA17DAD00000000000001F8
+t1285651885
+s504
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o
+t1285654690
+s48056
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o
+t1285883571
+s47116
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o
+t1285651889
+s6368
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app
+t1285883573
+s238
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM
+t1285883573
+s102
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+t1285883573
+s24356
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/AutosizeViewController.nib
+t1285657304
+s4155
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist
+t1285651885
+s595
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/MainWindow.nib
+t1285651886
+s1683
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/PkgInfo
+t1285651885
+s8
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/main.m
+c000000004C918AC00000000000000169
+t1284606656
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Autosize_Prefix-beiokxbxenfysjaxkidltphxknwv/Autosize_Prefix.pch.gch
+t1285651889
+s15211536
+
+NAutosize-Info.plist
+c000000004C918AC0000000000000038D
+t1284606656
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307576367#307576367#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307347489.773093
+e307347490.258909
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o
+x/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeAppDelegate.m307347489#307347490#0(0"0(0#0#101"/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeAppDelegate.m8606630336#2357"    cd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap" "-F/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/include" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources" -include /var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Autosize_Prefix-beiokxbxenfysjaxkidltphxknwv/Autosize_Prefix.pch -c "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeAppDelegate.m" -o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o"0#
+
+CCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307576367.912364
+e307576371.743114
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o
+x/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeViewController.m307576367#307576371#0(0"0(0#0#104"/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeViewController.m8820708267714232320#2363"    cd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap" "-F/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/include" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources" -include /var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Autosize_Prefix-beiokxbxenfysjaxkidltphxknwv/Autosize_Prefix.pch -c "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Classes/AutosizeViewController.m" -o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o"0#
+
+CCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307344689.579858
+e307344689.888306
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o
+x/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/main.m307344689#307344689#0(0"0(0#0#78"/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/main.m8605066944#2319"    cd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap" "-F/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/include" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources" -include /var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Autosize_Prefix-beiokxbxenfysjaxkidltphxknwv/Autosize_Prefix.pch -c "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/main.m" -o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/AutosizeViewController.xib"
+s307350103.593766
+e307350104.202633
+r1
+xCompileXIB
+x/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/AutosizeViewController.xib
+lSLF07#2@37"CompileXIB AutosizeViewController.xib307350103#307350104#0(0"0(0#0#98"/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/AutosizeViewController.xib8615561088#700"    cd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/AutosizeViewController.nib" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/AutosizeViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/MainWindow.xib"
+s307344685.700076
+e307344687.090401
+r1
+xCompileXIB
+x/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib307344685#307344687#0(0"0(0#0#86"/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/MainWindow.xib8604008544#676"    cd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/MainWindow.nib" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize"
+s307576373.067134
+e307576373.284150
+r1
+xGenerateDSYMFile
+x/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM
+x/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Autosize.app.dSYM build/Debug-iphonesimulator/Autosize.app/Autosize307576373#307576373#0(0"0(0#0#121"/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize8603549664#491"    cd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize" -o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM"0#
+
+CLd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize" normal i386
+s307576371.743383
+e307576373.066994
+r1
+xLd
+x/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+xnormal
+xi386
+lSLF07#2@126"Link /Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize307576371#307576373#0(0"0(0#0#0"8604227104#1080"    cd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator" "-F/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator" -filelist "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/Autosize.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize"0#
+
+CProcessInfoPlistFile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist" Autosize-Info.plist
+s307344685.631670
+e307344685.699971
+r1
+xProcessInfoPlistFile
+x/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist
+xAutosize-Info.plist
+lSLF07#2@27"Process Autosize-Info.plist307344685#307344685#0(0"0(0#0#91"/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Autosize-Info.plist7162247809294413824#587"    cd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Autosize-Info.plist -genpkginfo "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist"0#
+
+CProcessPCH /var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Autosize_Prefix-beiokxbxenfysjaxkidltphxknwv/Autosize_Prefix.pch.gch Autosize_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307344687.093117
+e307344689.579661
+r1
+xProcessPCH
+x/var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Autosize_Prefix-beiokxbxenfysjaxkidltphxknwv/Autosize_Prefix.pch.gch
+xAutosize_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Autosize_Prefix.pch307344687#307344689#0(0"0(0#0#91"/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Autosize_Prefix.pch8596825696#2175"    cd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap" -iquote "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap" "-F/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/include" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386" "-I/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources" -c "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/Autosize_Prefix.pch" -o /var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Autosize_Prefix-beiokxbxenfysjaxkidltphxknwv/Autosize_Prefix.pch.gch0#
+
+CTouch "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app"
+s307576373.284404
+e307576373.370303
+r1
+xTouch
+x/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app
+lSLF07#2@118"Touch /Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app307576373#307576373#0(0"0(0#0#0"8604249760#349"    cd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Autosize/build/Debug-iphonesimulator/Autosize.app"0#
+

@@ -1,0 +1,195 @@
+TControl Fun
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004BA82B910000000000000110
+t1269312401
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/Classes/Control_FunAppDelegate.h
+c000000004BA47B6900000000000001F7
+t1269070697
+s503
+i<UIKit/UIKit.h>
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/Classes/Control_FunAppDelegate.m
+c000000004BA47B6A000000000000027E
+t1269070698
+s638
+i"Control_FunAppDelegate.h"
+i"Control_FunViewController.h"
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/Classes/Control_FunViewController.h
+c000000004BA5E2590000000000000204
+t1269162585
+s516
+i<UIKit/UIKit.h>
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/Classes/Control_FunViewController.m
+c000000004BA5E0B200000000000006BA
+t1269162162
+s1722
+i"Control_FunViewController.h"
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/Control_FunViewController.xib
+c000000004BA5E2570000000000003E70
+t1269162583
+s15984
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/Control_Fun_Prefix.pch
+c000000004BA47B6B00000000000000BF
+t1269070699
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/MainWindow.xib
+c000000004BA47B6A000000000000247A
+t1269070698
+s9338
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/Control Fun.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/Control_FunAppDelegate.o
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/Control_FunViewController.o
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app.dSYM
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/Control Fun
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/Control_FunViewController.nib
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/Info.plist
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/MainWindow.nib
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/PkgInfo
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/ResourceRules.plist
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/image.png
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/image.png
+c000000004BA47DBB000000000000BD9D
+t1269071291
+s48541
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/main.m
+c000000004BA47B6B000000000000016D
+t1269070699
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Control_Fun_Prefix-dskybusnkmmyndblgspgevdpfaxs/Control_Fun_Prefix.pch.gch
+t2
+s0
+
+NControl_Fun-Info.plist
+c000000004BA47B6A000000000000038D
+t1269070698
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291703487#291703487#0(269"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Control-Fun' could not be found[BWARN]warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.2(4@132"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.Control-Fun' could not be found291703487#18446744073709551615#0#0(1@0"0(22@121"warning: building with 'Targeted Device Family' set to iPhone only ('1') not supported with SDK 'Device - iPhone OS 3.2'.291703487#18446744073709551615#0#0(1@0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC "build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/Control_FunAppDelegate.o" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/Classes/Control_FunAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/Control_FunViewController.o" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/Classes/Control_FunViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Control Fun.build/Debug-iphoneos/Control Fun.build/Objects-normal/armv6/main.o" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/Control_FunViewController.xib"
+r0
+
+CCompileXIB "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/image.png" image.png
+r0
+
+CCpResource "build/Debug-iphoneos/Control Fun.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app.dSYM" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/Control Fun"
+r0
+
+CLd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/Control Fun" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app/Info.plist" Control_Fun-Info.plist
+r0
+
+CProcessPCH /var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Control_Fun_Prefix-dskybusnkmmyndblgspgevdpfaxs/Control_Fun_Prefix.pch.gch Control_Fun_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Control Fun/build/Debug-iphoneos/Control Fun.app"
+r0
+

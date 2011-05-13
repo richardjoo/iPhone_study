@@ -1,0 +1,230 @@
+TButton Fun
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C3671890000000000000110
+t1278636425
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Button_FunViewController.xib
+c000000004BA1D1870000000000002DED
+t1268896135
+s11757
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Button_Fun_Prefix.pch
+c000000004AF4802300000000000000BD
+t1257537571
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Classes/Button_FunAppDelegate.h
+c000000004B219B8E00000000000001F1
+t1260493710
+s497
+i<UIKit/UIKit.h>
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Classes/Button_FunAppDelegate.m
+c000000004AF480230000000000000279
+t1257537571
+s633
+i"Button_FunAppDelegate.h"
+i"Button_FunViewController.h"
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Classes/Button_FunViewController.h
+c000000004B0CD484000000000000016D
+t1259132036
+s365
+i<UIKit/UIKit.h>
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Classes/Button_FunViewController.m
+c000000004BA1CABF0000000000000432
+t1268894399
+s1074
+i"Button_FunViewController.h"
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/MainWindow.xib
+c000000004AF480230000000000002436
+t1257537571
+s9270
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv6/Button Fun
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv6/Button Fun.LinkFileList
+c000000004BA1D2FB00000000000001FC
+t1268896507
+s508
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv6/Button_FunAppDelegate.o
+t1269067516
+s40712
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv6/Button_FunViewController.o
+t1269067516
+s33868
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv6/main.o
+t1269067515
+s6620
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv7/Button Fun
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv7/Button Fun.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv7/Button_FunAppDelegate.o
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv7/Button_FunViewController.o
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app
+t1269510222
+s374
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app.dSYM
+t1269067520
+s102
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/Button Fun
+t1269067519
+s22912
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/Button_FunViewController.nib
+t1268896508
+s3182
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/Info.plist
+t1269509977
+s668
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/MainWindow.nib
+t1268896508
+s1501
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/PkgInfo
+t1269509977
+s8
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/ResourceRules.plist
+t1269067513
+s485
+
+N/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/main.m
+c000000004AF48023000000000000016C
+t1257537571
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Button_Fun_Prefix-bbqvzsgexbvjvyaruzxgczgdjskk/Button_Fun_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Button_Fun_Prefix-eexrxissunaixdgzqkgisgnmseuz/Button_Fun_Prefix.pch.gch
+t2
+s0
+
+NButton_Fun-Info.plist
+c000000004BAB2F580000000000000421
+t1269509976
+s1057
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302578273#302578273#0(94"[BEROR]Code Sign error: Provisioning profile 'My iPhone Development Provisioning' has expired1(4@86"Code Sign error: Provisioning profile 'My iPhone Development Provisioning' has expired302578273#18446744073709551615#0#0(1@0"0(0#1#0"8612443936#0"0#
+
+CCompileC "build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv6/Button_FunAppDelegate.o" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Classes/Button_FunAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv6/Button_FunViewController.o" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Classes/Button_FunViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv6/main.o" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv7/Button_FunAppDelegate.o" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Classes/Button_FunAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv7/Button_FunViewController.o" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Classes/Button_FunViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv7/main.o" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/Button_FunViewController.xib"
+r0
+
+CCompileXIB "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/MainWindow.xib"
+r0
+
+CCpResource "build/Debug-iphoneos/Button Fun.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/Button Fun" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app.dSYM" "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/Button Fun"
+r0
+
+CLd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv6/Button Fun" normal armv6
+r0
+
+CLd "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Button Fun.build/Debug-iphoneos/Button Fun.build/Objects-normal/armv7/Button Fun" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app/Info.plist" Button_Fun-Info.plist
+r0
+
+CProcessPCH /var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Button_Fun_Prefix-bbqvzsgexbvjvyaruzxgczgdjskk/Button_Fun_Prefix.pch.gch Button_Fun_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/YC/YCK66jHvFn4+tJqIK-s-W++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Button_Fun_Prefix-eexrxissunaixdgzqkgisgnmseuz/Button_Fun_Prefix.pch.gch Button_Fun_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/richardjoo/Documents/Work/iPhoneDev/Projects/Button Fun/Button Fun/build/Debug-iphoneos/Button Fun.app"
+r0
+
